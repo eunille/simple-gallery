@@ -1,6 +1,6 @@
 # 📚 Simple Gallery API Documentation
 
-A comprehensive RESTful API for a photo gallery application with user authentication, album management, and image upload capabilities.
+A comprehensive RESTful API for photo gallery application with user authentication, album management, and image upload capabilities.
 
 ## 🚀 Quick Start
 
